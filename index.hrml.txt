@@ -1,2 +1,0 @@
-<h1>Meu Primeiro Site</h1>
-<p>Estou aprendendo TI e esse é meu primeiro projeto.</p>
